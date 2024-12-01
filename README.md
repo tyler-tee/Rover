@@ -4,6 +4,8 @@ Rover is a proof-of-concept web application that demonstrates how to leverage Op
 
 The production version of this app is live at [lambdasandlapdogs.com/dogs/rover](https://www.lambdasandlapdogs.com/dogs/rover).
 
+![rover_demo](https://github.com/user-attachments/assets/70458a19-a25f-41a3-9903-9bdbcef6d19e)
+
 ---
 
 ## Features
